@@ -1,4 +1,4 @@
-# emptySqlite
+# emptySqlite PHP
 php utility for deleting data in SQLite while maintaining data structures.
 
  Author: David Smith - ephernet technologies - 2018
